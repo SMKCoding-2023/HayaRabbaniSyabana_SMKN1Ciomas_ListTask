@@ -6,8 +6,8 @@
 }
 
 body {
-	background-color: rgb(38, 35, 54);
-	color: #FFF;
+	background-color: #adccfc;
+	color: #302b2b;
 }
 
 main {
@@ -40,9 +40,9 @@ main .create-new input {
 	appearance: none;
 	border: none;
 	outline: none;
-	border-bottom: 1px solid #FFF;
+	border-bottom: 1px solid #fffdfd;
 	background-color: transparent;
-	color: #FFF;
+	color: #716868;
 	font-size: 1.5rem;
 	padding-top: 0.5rem;
 	padding-bottom: 0.5rem;
@@ -51,17 +51,17 @@ main .create-new input {
 }
 
 main .create-new input:focus {
-	border-bottom-color: rgb(47, 214, 111);
+	border-bottom-color: #4e88df;
 }
 
 main .create-new button {
 	appearance: none;
 	border: none;
 	outline: none;
-	background-color: rgb(47, 214, 111);
+	background-color: rgb(56, 114, 202);
 	text-transform: uppercase;
 	font-weight: bold;
-	color: #000;
+	color: #fff7f7;
 	font-size: 1.5rem;
 	padding: 0.5rem 1rem;
 	border-radius: 0.5rem;
@@ -79,7 +79,7 @@ main .tasks .task {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	background-color: rgb(52, 47, 78);
+	background-color: rgb(57, 174, 183);
 	padding: 1rem;
 	border-radius: 0.5rem;
 	margin-bottom: 1rem;
@@ -96,7 +96,7 @@ main .tasks .task button {
 	background-color: rgb(47, 214, 111);
 	text-transform: uppercase;
 	font-weight: bold;
-	color: #000;
+	color: #f5f1f1;
 	font-size: 0.875rem;
 	padding: 0.5rem 1rem;
 	border-radius: 0.5rem;
